@@ -1,0 +1,9 @@
+EXPORTS
+    pile_creer @1
+    pile_depiler @2
+    pile_detruire @3
+    pile_empiler @4
+    pile_estVide @5
+    pile_sommet @6
+    pile_taille @7
+    verifier_expression @8
