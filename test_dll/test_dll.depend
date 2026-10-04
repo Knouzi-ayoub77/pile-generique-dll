@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1791118645 source:c:\users\pc\downloads\pile_dll (3)\pile_dll\main_dll.cpp
+	<iostream>
+	"pile_dll.h"
+
+1791118644 c:\users\pc\downloads\pile_dll (3)\pile_dll\pile_dll.h
+
+1791118645 source:c:\projets\pile_dll\main_dll.cpp
+	<iostream>
+	"pile_dll.h"
+
+1791118644 c:\projets\pile_dll\pile_dll.h
+

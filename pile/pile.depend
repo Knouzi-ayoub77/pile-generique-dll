@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1791118644 source:c:\users\pc\downloads\pile_dll (3)\pile_dll\pile_dll.cpp
+	"pile_dll.h"
+	<string>
+	<cstring>
+	"pile_tableau.hpp"
+	"pile_liste_chainee.hpp"
+
+1791118644 c:\users\pc\downloads\pile_dll (3)\pile_dll\pile_dll.h
+
+1791118645 c:\users\pc\downloads\pile_dll (3)\pile_dll\pile_tableau.hpp
+	<iostream>
+	<stdexcept>
+
+1791118645 c:\users\pc\downloads\pile_dll (3)\pile_dll\pile_liste_chainee.hpp
+	<iostream>
+	<stdexcept>
+

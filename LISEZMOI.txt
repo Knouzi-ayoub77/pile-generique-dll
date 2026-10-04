@@ -1,0 +1,25 @@
+CONTENU DE CE DOSSIER
+======================
+
+Fichiers sources de la bibliotheque (projet DLL "pile") :
+  - pile_dll.h               en-tete public (ce que le client inclut)
+  - pile_dll.cpp             implementation de la DLL
+  - pile_tableau.hpp         pile generique par tableau dynamique
+  - pile_liste_chainee.hpp   pile generique par liste chainee
+
+Fichier source du programme client (projet "test_dll") :
+  - main_dll.cpp             utilise pile_dll.h, teste la pile et
+                              la verification d'expressions
+
+Binaires deja compiles (MinGW), pour tester sans rien installer :
+  - pile.dll
+  - test_dll.exe
+  (mettez-les dans le meme dossier et double-cliquez sur test_dll.exe)
+
+Script de compilation en ligne de commande (MSYS2/MinGW) :
+  - build.bat
+
+PAS de fichier .cbp / .workspace dans ce dossier : vous devez creer
+vous-meme les deux projets Code::Blocks (DLL "pile" + Console "test_dll")
+en suivant les etapes donnees dans la conversation, et y ajouter ces
+fichiers sources.
